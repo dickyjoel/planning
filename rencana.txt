@@ -1,3 +1,5 @@
 - project sederhana dari laravel (done)
 - belajar OOP PHP (done)
+- testing testing
 - belajar git dan github (9/29/2020)
+- belajar javascript hingga advance (---)
